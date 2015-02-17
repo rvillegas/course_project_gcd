@@ -1,9 +1,9 @@
 
-### Project assigment for Getting and cleaning Data
+### Project assigment for Getting and cleaning Data course
 
-This repo contain the script, the dataset generated to first question and the original data.
+This repo contain the script, the dataset generated for the first question in project assigment, and the original data.
 
-The data are in the folder ./UCI HAR Dataset ans subfolders train and test, the same of the original file.
+The original data are in the folder ./UCI HAR Dataset ans subfolders train and test, the same of the original file.
 
 In the run_analysis.R script is explained how the program works:
 
