@@ -1,7 +1,7 @@
-##setwd("D:\\rvillegas\\Mio\\coursera\\gc\\wd\\course_project_gcd")
+
 
 run_analysis<-function(){
-
+  ##setwd("D:\\rvillegas\\Mio\\coursera\\gc\\wd\\course_project_gcd")
   library(dplyr)
   
 
